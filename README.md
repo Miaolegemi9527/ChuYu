@@ -3,11 +3,11 @@
 
 Welcome
 
-![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYWelcome.gif)
+![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYWelcome.gif)  
 
 Home
 
-![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYHome.gif)
+![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYHome.gif)  ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYHome.png)
 
 Time
 
