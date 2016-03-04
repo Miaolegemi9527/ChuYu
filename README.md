@@ -11,7 +11,7 @@ Home
 
 Time
 
-![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYTime.gif)  ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYTime1.png)  ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYTime2.png)
+![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYTime.gif)   ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYTime2.png)
 
 Image
 
