@@ -19,4 +19,4 @@ Image
 
 Radio
 
-![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYRadio.gif)  
+![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYRadio.gif)  ![Image](https://raw.githubusercontent.com/Miaolegemi9527/MarkdownPhotos/master/ChuYu/CYRadio2.png)
